@@ -23,6 +23,7 @@ I am using this repository to:
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 ## Matrix
@@ -44,6 +45,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
+| [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
