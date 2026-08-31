@@ -18,6 +18,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
@@ -72,4 +73,8 @@ I am using this repository to:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
