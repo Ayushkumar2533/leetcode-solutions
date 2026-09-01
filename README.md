@@ -23,6 +23,7 @@ I am using this repository to:
 | [0054-spiral-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
@@ -81,6 +82,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
