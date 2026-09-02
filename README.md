@@ -28,6 +28,7 @@ I am using this repository to:
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
@@ -86,8 +87,13 @@ I am using this repository to:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
