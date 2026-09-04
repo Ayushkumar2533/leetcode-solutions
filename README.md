@@ -47,6 +47,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
@@ -87,6 +88,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -98,4 +100,8 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
