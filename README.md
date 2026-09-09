@@ -30,6 +30,7 @@ I am using this repository to:
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0724-find-pivot-index](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
@@ -76,6 +77,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0724-find-pivot-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
