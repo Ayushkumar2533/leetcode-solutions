@@ -30,6 +30,7 @@ I am using this repository to:
 | [0238-product-of-array-except-self](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -81,6 +82,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 | [0724-find-pivot-index](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/3903-smallest-stable-index-i/) | Easy |
@@ -88,6 +90,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +106,7 @@ I am using this repository to:
 | [0074-search-a-2d-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -116,4 +120,8 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0069-sqrtx/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
