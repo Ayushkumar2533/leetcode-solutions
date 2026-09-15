@@ -1,29 +1,45 @@
 class Solution {
 public:
+// section where wwe search element in specific row
+bool searchInRow(vector<vector<int>>&matrix, int target, int row){
+    int n= matrix[0].size();
+    int st=0;
+    int end=n-1;
+
+    while(st<=end){
+        int mid = st + (end-st)/2;
+        if(target == matrix[row][mid]){
+            return true;
+        }
+        else if( target > matrix[row][mid]){
+            st = mid +1;
+        }
+        else{
+            end=mid-1;
+        }
+    }
+    return false;
+}
+
+//main section where we search correct row
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
+        int m=matrix.size();
+        int n=matrix[0].size();
 
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-        int left = 0;
-        int right = rows * cols - 1;
+        int startrow=0,endrow=m-1;
+        while(startrow<=endrow){
+            int midrow = startrow + (endrow-startrow)/2;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            int row = mid / cols;
-            int col = mid % cols;
-            
-            if (matrix[row][col] == target) {
-                return true;
+            if(target >= matrix[midrow][0] && target <= matrix[midrow][n-1]){
+                return searchInRow(matrix,target,midrow);
             }
-            else if (matrix[row][col] < target) {
-                left = mid + 1;
+            else if(target >= matrix[midrow][n-1]){
+                startrow=midrow + 1;
             }
-            else {
-                right = mid - 1;
+            else{
+                endrow= midrow-1;
             }
         }
-
         return false;
     }
 };
