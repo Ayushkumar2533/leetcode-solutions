@@ -53,6 +53,7 @@ I am using this repository to:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
@@ -111,6 +112,7 @@ I am using this repository to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0029-divide-two-integers/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
