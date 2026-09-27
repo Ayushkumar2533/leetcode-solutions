@@ -69,6 +69,7 @@ I am using this repository to:
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +136,8 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
