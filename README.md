@@ -20,6 +20,7 @@ I am using this repository to:
 | [0001-two-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
@@ -115,6 +116,7 @@ I am using this repository to:
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
