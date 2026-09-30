@@ -150,6 +150,7 @@ I am using this repository to:
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
+| [0709-to-lower-case](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0709-to-lower-case/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
