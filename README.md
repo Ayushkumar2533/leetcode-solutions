@@ -71,6 +71,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 ## Sorting
@@ -148,6 +149,7 @@ I am using this repository to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0709-to-lower-case/) | Easy |
