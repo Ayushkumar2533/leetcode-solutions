@@ -79,6 +79,7 @@ I am using this repository to:
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
+| [0242-valid-anagram](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -109,6 +110,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -150,6 +152,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0709-to-lower-case/) | Easy |
