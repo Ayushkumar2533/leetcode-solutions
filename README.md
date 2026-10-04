@@ -156,8 +156,13 @@ I am using this repository to:
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0709-to-lower-case/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
