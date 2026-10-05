@@ -38,6 +38,7 @@ I am using this repository to:
 | [0724-find-pivot-index](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
+| [0896-monotonic-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0896-monotonic-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/1901-find-a-peak-element-ii/) | Medium |
