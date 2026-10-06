@@ -26,6 +26,7 @@ I am using this repository to:
 | [0056-merge-intervals](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
+| [0137-single-number-ii](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0162-find-peak-element/) | Medium |
@@ -135,6 +136,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0029-divide-two-integers/) | Medium |
+| [0137-single-number-ii](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 ## Ternary Search
