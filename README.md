@@ -72,6 +72,7 @@ I am using this repository to:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
@@ -106,6 +107,7 @@ I am using this repository to:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Hard/0410-split-array-largest-sum/) | Hard |
 ## Hash Table
@@ -154,6 +156,7 @@ I am using this repository to:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
@@ -168,4 +171,8 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
