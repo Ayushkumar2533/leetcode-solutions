@@ -59,6 +59,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ I am using this repository to:
 | [0009-palindrome-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
@@ -138,6 +140,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0137-single-number-ii](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
@@ -157,6 +160,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0067-add-binary](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
