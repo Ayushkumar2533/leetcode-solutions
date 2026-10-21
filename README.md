@@ -61,6 +61,7 @@ I am using this repository to:
 | [0054-spiral-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0867-transpose-matrix](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0867-transpose-matrix/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@ I am using this repository to:
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0709-to-lower-case](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0709-to-lower-case/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ I am using this repository to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
