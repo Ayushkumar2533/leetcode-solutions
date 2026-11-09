@@ -78,6 +78,7 @@ I am using this repository to:
 | [0005-longest-palindromic-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0075-sort-colors](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 ## Sorting
@@ -163,6 +164,7 @@ I am using this repository to:
 | [0005-longest-palindromic-substring](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0067-add-binary](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Ayushkumar2533/leetcode-solutions/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
